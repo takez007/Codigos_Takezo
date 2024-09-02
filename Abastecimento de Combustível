@@ -1,0 +1,10 @@
+# (2) Abastecimento de Combustível
+
+Q = float(input("Quantos reais vocÊ quer reabastecer?"))
+
+# Valor da gasolina
+ValorGas = 5.45
+
+Litros = Q / ValorGas
+
+print(f"O total de litros reabastecidos foi de: {lt:.2f}")
