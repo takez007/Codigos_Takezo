@@ -1,0 +1,7 @@
+# (1) Adição simples
+
+Valor_1 = float(input("Digite o primeiro valor"))
+Valor_2 = float(input("Digite um segundo valor"))
+ST = Valor_1 + Valor_2
+
+print(f"A soma dos valorres {Valor_1} + {Valor_2} é igual {ST} ")
